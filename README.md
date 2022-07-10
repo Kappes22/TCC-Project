@@ -2,6 +2,10 @@
 This is meant to be a university project, the objective is to predict the emotions of a person using their phone camera. 
 According to the phone's capabilities, the prediction will be partially or completely done in a AWS environment.
 
+# Simple example
+
+![Happy face being discovered](/images/happy.png)
+
 # License
  
 The MIT License (MIT)
